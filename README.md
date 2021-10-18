@@ -32,9 +32,8 @@ A curated list of just the right amount of resources on causal inference.
 - m3
 
 ### Posts
-- p1
-- p2
-- p3
+- [*Start Asking Your Data 'Why?' - A Gentle Intro To Causal Inference*](https://elzurdo.github.io/2021/09/29/start_ask_why_part1.html)
+- [*Causal design patterns for data analysts*](https://emilyriederer.netlify.app/post/causal-design-patterns/)
 
 ### Packages
 - p1
