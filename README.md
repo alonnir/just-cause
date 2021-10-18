@@ -21,9 +21,10 @@ A curated list of just the right amount of resources on causal inference.
 
 
 ### Books
-- b1
-- b2
-- b3
+- [*The Book of Why*](http://bayes.cs.ucla.edu/WHY/) - popular science reading
+- [Causal Inference in Statistics A Primer](http://bayes.cs.ucla.edu/PRIMER/) - excellent short technical book 
+- [Causal Inference The Mixtape](https://mixtape.scunning.com/) - Social Science focused using R and Strata
+- [What If?](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) - a cohesive presentation of concepts of, and methods for, causal inference 
 
 ### MOOCs
 - m1
