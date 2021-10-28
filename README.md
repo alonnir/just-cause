@@ -1,6 +1,8 @@
 # just-cause
 A curated list of just the right amount of resources on causal inference.
 <br>
+**WIP**
+<br>
 
 ### Intro
 Not another awesome list.
@@ -15,7 +17,7 @@ Still want the awesome list? [Look](https://github.com/matthewvowels1/Awesome-Ca
 
 ---
 
-### Intro
+### Intro to Causal Inference
 - The golden standard
 - When you can't experiment
   -  Correlation does not mean causation
