@@ -1,6 +1,19 @@
 # just-cause
 A curated list of just the right amount of resources on causal inference.
+<br>
 
+### Intro
+Not another awesome list.
+
+While awesome lists can indeed be awesome, they can also be daunting and evoke a strong sense of FOMO. This repo's mission is to be a snack size version of an awesome list, providing a highly curated, human friendly, and most importantly digestible list of resources for anyone interested in causal inference.
+
+The idea here is that unlike an awesome list, one can definitely get though all the resources here, and come out the other end knowledgeable and happy.
+
+Still want the awesome list? [Look](https://github.com/matthewvowels1/Awesome-Causal-Inference) [no](https://github.com/napsternxg/awesome-causality) [further](https://github.com/rguo12/awesome-causality-algorithms).
+
+**We want you!** This repo is still at a very nascent stage. If you would like to contribute to `just-cause` and believe in the concise awesome lists cause, we would love to hear from you!
+
+---
 
 ### Intro
 - The golden standard
